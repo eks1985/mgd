@@ -1,0 +1,11 @@
+{
+  "guid001": {"descr": "SP", "categoryRef": "guid01"},
+  "guid002": {"descr": "MTR", "categoryRef": "guid02"},
+  "guid009": {"descr": "MISTRAL", "categoryRef": "guid01"},
+  "guid010": {"descr": "REGINA", "categoryRef": "guid01"},
+  "guid011": {"descr": "ROMINA", "categoryRef": "guid01"},
+  "guid012": {"descr": "METRO", "categoryRef": "guid01"},
+  "guid014": {"descr": "MAXI-METRO", "categoryRef": "guid01"},
+  "guid005": {"descr": "MEGA", "categoryRef": "guid03"},
+  "guid006": {"descr": "CAMPO", "categoryRef": "guid12"}
+}
